@@ -12,7 +12,6 @@ The latest OpenAPI (fka Swagger) specification may be found at: https://api.auto
 :yum:
 
 **This library allows you to quickly and easily use the Automile API via PHP.**
-
 **This SDK is currently in beta. If you need help:**
 
 * **Use the [Issue Tracker](https://github.com/Automile/automile-php/issues) to report bugs or missing functionality in this library.**
